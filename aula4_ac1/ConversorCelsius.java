@@ -12,7 +12,7 @@ public class ConversorCelsius{
         celsius = scanner.nextDouble();
 
         //Processamento e saída de dados
-        fahrenheit= celsius *1.8 +32; //Calculo utiliado para converter celsius em fahrenheit
+        fahrenheit= celsius *1.8 +32; //Calculo utilizado para converter celsius em fahrenheit
         System.out.println("A temperatura em celsius "+celsius+ " em Fahrenheit equivale a: "+fahrenheit);
         scanner.close();
     }
