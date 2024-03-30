@@ -1,1 +1,1 @@
-Exercícios da aula 5 de construção de algoritmos para AC1, feitos por João Henrique
+Este arquivo é referente ao exercício proposta da aula 5 
